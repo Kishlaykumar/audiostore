@@ -1,0 +1,19 @@
+@import "./typography";
+@import "./variables";
+@import "./mixins";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;   /* problem? */
+  padding: 0;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fafafa;
+  overflow-x: hidden;
+}

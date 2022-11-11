@@ -1,0 +1,60 @@
+/* #f1f1f1; */
+
+.block-three {
+    width: 80%;
+    margin: 5% auto;
+background-color: #82caf3;
+    height: 35vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: flex;
+    border: 1px solid black;
+    @media (max-width:900px) {
+        margin: 0;
+        width: 100%;
+        margin-bottom: 5%;
+        
+    }
+    @media(max-width:700px) {
+        display: flex;
+        flex-direction: column;
+        height: 60vh;
+    }
+    .img {
+        background-image: url("../../assets/home/desktop/image-earphones-yx1.jpg");
+        width: 50%;
+        height: 100%;
+        @media(max-width:700px) {
+        width: 100%;
+        
+        }
+    }
+
+    .block-three-text {
+        margin: auto;
+        @media(max-width:700px) {
+            min-height: 200px;
+        padding-top: 50px;
+        }
+
+        h1{
+            margin-bottom: 10%;
+        }
+    }
+    .button {
+        width: fit-content;
+        padding: 1em 1.5em;
+        color: white;
+        background-color: black;
+        white-space: nowrap;
+        font-size: 1.1em;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    .button:hover {
+        background-color: black;
+        color:white;
+        background-color: rgb(99, 99, 99);
+    }
+}
