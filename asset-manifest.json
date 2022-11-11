@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/audiostore/static/css/main.ae53f22c.css",
+    "main.js": "/audiostore/static/js/main.b0aa5061.js",
+    "static/media/image-speaker-zx9.png": "/audiostore/static/media/image-speaker-zx9.153cd899b91a08b22b1a.png",
+    "static/media/image-best-gear.jpg": "/audiostore/static/media/image-best-gear.4d4a28e9e7c9ab158dd8.jpg",
+    "static/media/instagram.png": "/audiostore/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/image-header.jpg": "/audiostore/static/media/image-header.13f7f18f9ae7b105ca12.jpg",
+    "static/media/image-hero.jpg": "/audiostore/static/media/image-hero.55c18e980adf7658ae26.jpg",
+    "static/media/image-speaker-zx7.jpg": "/audiostore/static/media/image-speaker-zx7.173a4cb5c7acfc7f300c.jpg",
+    "static/media/facebook.png": "/audiostore/static/media/facebook.a5def58db1e9c1b38269.png",
+    "index.html": "/audiostore/index.html",
+    "main.ae53f22c.css.map": "/audiostore/static/css/main.ae53f22c.css.map",
+    "main.b0aa5061.js.map": "/audiostore/static/js/main.b0aa5061.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae53f22c.css",
+    "static/js/main.b0aa5061.js"
+  ]
+}
